@@ -33,8 +33,8 @@ A .txt listát kedvedre szerkesztheted, törölheted (pl. 18+ csatornák), mozga
 
 ## Követelmények:
 
-OpenPli - az EPG importálás miatt (nem próbáltam más image alatt)
-[Pseudo Fast Scan](http://www.ab-forum.info/viewtopic.php?f=468&t=76382) - kompatibilitást lásd a posztban
+- OpenPli - az EPG importálás miatt (nem próbáltam más image alatt)
+- [Pseudo Fast Scan](http://www.ab-forum.info/viewtopic.php?f=468&t=76382) - kompatibilitást lásd a posztban
 
 ## Használat:
 
