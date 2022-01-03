@@ -1,4 +1,5 @@
-# Welcome to Joplin!
+# enigma2hunskchannellist
+DirectOne (UPC, Freesat) csatornalista
 
 Célom egy friss csatornalista létrehozása 0.8W fokon Digi és DirectOne (Freesat, UPC) szolgáltatókhoz, amely teljes mértékben kompatibilis az EPGImport és Rytec forrásokkal, mindenféle állítgatás nélkül.
 
