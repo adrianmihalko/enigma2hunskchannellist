@@ -60,7 +60,7 @@ Válasszuk ki a listát amit szeretnénk (@-al kezdődik) majd nyomjunk egy OK-t
 
 Telepítsük az EPGImport és EPGImport Rytec csomagokat.
 
-[[screenshot/epgimportsettings.jpg|EPGIMPORT]]
+![EPGIMPORT](screenshot/epgimportsettings.jpg?raw=true "EPGImport settings")
 
 Ezeket a forrásokat engedélyezzük:
 
