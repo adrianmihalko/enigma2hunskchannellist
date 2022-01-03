@@ -1,5 +1,4 @@
-# enigma2hunskchannellist
-DirectOne (UPC, Freesat) csatornalista
+# Welcome to Joplin!
 
 Célom egy friss csatornalista létrehozása 0.8W fokon Digi és DirectOne (Freesat, UPC) szolgáltatókhoz, amely teljes mértékben kompatibilis az EPGImport és Rytec forrásokkal, mindenféle állítgatás nélkül.
 
@@ -45,12 +44,12 @@ Sajnos a Pseudo Fast Scan pluginban találtam egy olyan hibát, hogy a fájlneve
 `/usr/lib/enigma2/python/Plugins/SystemPlugins/PFastScan` 
 3. plugin.pyo ha létezik töröljük, ez a következő újraindítás után újra létrejön
 4. hozzunk létre egy üres **offline** nevű fájlt, így a plugin nem frissül majd automatikusan
-5. Másoljuk innen az oldalról a **plugin.py** fájlt a fent nevezett mappába
-6. Másoljuk innen az oldalról az xml mappából a fájlokat az xml mappába.
+5. Másoljuk innen az oldalról a **PFastScan** mappából a **plugin.py** fájlt a fent nevezett mappába
+6. Másoljuk innen az oldalról a **PFastScan/xml** mappából a fájlokat az xml mappába.
 
 Most már csak le kell keresnünk az kívánt csatornalistát. 
 
-Menu - Beállítások - Tunerek és keresés - Pseudo Fast Scan
+`Menu - Beállítások - Tunerek és keresés - Pseudo Fast Scan`
 
 Válasszuk ki a listát amit szeretnénk (@-al kezdődik) majd nyomjunk egy OK-t.
 
