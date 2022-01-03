@@ -33,8 +33,8 @@ A .txt listát kedvedre szerkesztheted, törölheted (pl. 18+ csatornák), mozga
 
 ## Követelmények:
 
-- OpenPli - az EPG importálás miatt (nem próbáltam más image alatt)
-- [Pseudo Fast Scan](http://www.ab-forum.info/viewtopic.php?f=468&t=76382) - kompatibilitást lásd a posztban
+OpenPli - az EPG importálás miatt (nem próbáltam más image alatt)
+[Pseudo Fast Scan](http://www.ab-forum.info/viewtopic.php?f=468&t=76382) - kompatibilitást lásd a posztban
 
 ## Használat:
 
@@ -52,15 +52,11 @@ Most már csak le kell keresnünk az kívánt csatornalistát.
 
 `Menu - Beállítások - Tunerek és keresés - Pseudo Fast Scan`
 
-![PSEUDOFASTSCAN](https://raw.githubusercontent.com/adrianmihalko/enigma2hunskchannellist/main/screenshot/pseudofastscansettings.jpg "Pseudo Fast Scan settings")
-
 Válasszuk ki a listát amit szeretnénk (@-al kezdődik) majd nyomjunk egy OK-t.
 
 ## EPG importálás beállítása
 
 Telepítsük az EPGImport és EPGImport Rytec csomagokat.
-
-![EPGIMPORT](https://raw.githubusercontent.com/adrianmihalko/enigma2hunskchannellist/main/screenshot/epgimportsettings.jpeg "EPGImport settings")
 
 Ezeket a forrásokat engedélyezzük:
 
@@ -81,17 +77,8 @@ Ezeket a forrásokat engedélyezzük:
 
 Sajnos, sok csatornának ugyan az a szolgáltatói azonosítója, ezért ki kell szűrnünk azokat, amiket nem szeretnénk.
 
-Ehhez az **EPGfilter.sh** szkriptet fogjuk használni
+Ehhez másoljuk a **channel_id_filter.conf** fájlt az `/etc/epgimport/`  mappába:
 
-Másoljuk az EPGfilter mappából a fájlokat az `/etc/epgimport/` mappába. Engedélyezzük a futtatását `chmod +x /etc/EPGfilter.sh` paranccsal. 
-
-Futtasuk is le, ezután létre kell jönniük az alábbi fájloknak:
-
-- filtered.channels.xml (módosított/szűrt csatornalista)
-- filtered.sources.xml (módosított sources fájl)
-- removed.channels.xml (eltávolított csatornák, ellenőrizzük nem üres -e)
-- rytec.sources.xml.org (eredeti sources fájl)
-
-Az **FILTERpattern.txt** fájl tartalmazza azokat a csatornákat, amiket nem szeretnénk, hogy az EPGImport importáljon.
+Ez a fájl tartalmazza azokat a csatornákat, amiket nem szeretnénk, hogy az EPGImport importáljon.
 
 Az EPGImportban futtassunk le egy manuális importálást (sárga gomb) és ellenőrizzük, hogy rendben van -e minden.
