@@ -52,11 +52,15 @@ Most már csak le kell keresnünk az kívánt csatornalistát.
 
 `Menu - Beállítások - Tunerek és keresés - Pseudo Fast Scan`
 
+[[screenshot/pseudofastscansettings.jpg|PSEUDOFASTSCAN]]
+
 Válasszuk ki a listát amit szeretnénk (@-al kezdődik) majd nyomjunk egy OK-t.
 
 ## EPG importálás beállítása
 
 Telepítsük az EPGImport és EPGImport Rytec csomagokat.
+
+[[screenshot/epgimportsettings.jpg|EPGIMPORT]]
 
 Ezeket a forrásokat engedélyezzük:
 
