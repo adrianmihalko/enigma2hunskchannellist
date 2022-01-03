@@ -52,9 +52,7 @@ Most már csak le kell keresnünk az kívánt csatornalistát.
 
 `Menu - Beállítások - Tunerek és keresés - Pseudo Fast Scan`
 
-[[screenshot/pseudofastscansettings.jpg|PSEUDOFASTSCAN]]
 ![PSEUDOFASTSCAN](https://raw.githubusercontent.com/adrianmihalko/enigma2hunskchannellist/main/screenshot/pseudofastscansettings.jpg "Pseudo Fast Scan settings")
-
 
 Válasszuk ki a listát amit szeretnénk (@-al kezdődik) majd nyomjunk egy OK-t.
 
