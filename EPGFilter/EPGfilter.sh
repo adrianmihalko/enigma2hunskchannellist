@@ -15,6 +15,8 @@ J=1
             fi    
         done
 
+wget -q "https://raw.githubusercontent.com/adrianmihalko/enigma2hunskchannellist/main/EPGFilter/FILTERpattern.txt" -O /etc/epgimport/FILTERpattern.txt
+
 /usr/bin/dos2unix /etc/epgimport/FILTERpattern.txt
 
 grep -v -f "/etc/epgimport/FILTERpattern.txt" "/tmp/rytec.channels.xml" > "/etc/epgimport/filtered.channels.xml"
