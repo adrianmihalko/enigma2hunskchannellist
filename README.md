@@ -20,14 +20,13 @@ Hogy jövök én ide?
 
 Alapból a plugin, igaz, hogy tartalmazza a DirectOne (Freesat, UPC) szolgáltatót, de nem túl összeszedett módon. 
 
-Amit én hozzáadtam:
+Amit hozzáadtam:
 
-- Digi HU - teljes magyar csomag, a szolgáltató elrendezése alapján
-- DirectOne HU (@directone hungary upc) - teljes magyar és szlovák csomag:
+- Kombinált DirectOne HU (@directone hungary upc) és Digi HU csatornák összefésülve - teljes magyar és szlovák csomag:
     - http://musor.tv kategóriák alapján rendezve 
-    - HD csatornák elöl, SD csatornák utána
+    - HD csatorna hangsúlyos, ahol HD csatorna is elérhető, az SD nem került hozzáadásra
     - Magyar csatornák elöl, szlovák csatornák alul
-- Kombinált lista (@hungary slovakia combined) - a kedvencem. Digi és DirectOne csatornák összefésülve. DirectOne hangsúlyos, tehát csak azok a Digi csatornák lettek hozzáadva, amik a DirectOne-nél nem szerepelnek.
+    - DirectOne hangsúlyos, tehát csak azok a Digi csatornák lettek hozzáadva, amik a DirectOne-nél nem szerepelnek (ebből 2024-ben nem sok van).
 
 A .txt listát kedvedre szerkesztheted, törölheted (pl. 18+ csatornák), mozgathatod a sorokat a végső bouquet ez alapján a fájl alapján lesz generálva.
 
@@ -69,9 +68,9 @@ Ezeket a forrásokat engedélyezzük:
     - Ceska - Bazicky (xz)
     - Ceska/Slovensko - Rozdeleny (xz)
     - Ceska/Slovensko - Sportove/Filmy (xz)
-  - Rytec Magyarorszag XMLTV
-    - Magyarorszag - Basic (xz)
-    - Magyarorszag - Sport/Film (xz)
+  - Rytec Magyarorszag XMLTV (JELENLEG NEM MŰKÖDIK)
+    - Magyarorszag - Basic (xz) (JELENLEG NEM MŰKÖDIK)
+    - Magyarorszag - Sport/Film (xz) (JELENLEG NEM MŰKÖDIK)
   - Rytec Romania XMLTV
     - Romania Baza (xz)
 
