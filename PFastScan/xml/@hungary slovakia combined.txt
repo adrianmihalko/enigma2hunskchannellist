@@ -1,166 +1,133 @@
-M1 HD
-|1:0:1:7599|m1
 |1:0:19:7919|Duna HD
-Duna TV
 Duna World / M4 Sport+
-|1:0:19:7728|RTL Klub HD
-|7601|RTL Klub
-|1:0:19:7676|RTL2 HD
-RTL2
+RTL HD
+RTL KETTO HD
+RTL HAROM HD
 RTL GOLD
-RTL+ HD
-RTL+
 |FBE|TV2 HD
-|7602|TV2
 SuperTV2
 |1:0:1:78C0|Prime
 Cool
 VIASAT 3
 VIASAT 6
-|791D|HBO HD
-HBO
-HBO2
-HBO 3 HU
+AMC HU
+AXN CE
 |1:0:1:77F5|Cinemax
 Cinemax2
-FilmBox Extra HD
-|772B|Filmbox Premium
-Filmbox Family
-FilmBox Stars INT
-Filmbox
-Moziverzum
-|1:0:1:7986|Mozi+
-Film+ HD
-Film+
-Film Now HU
-Epic Drama HD
-TV4
-Film 4
-STORY 4
-Galaxy4
-Sorozat+
 Comedy Central Hungary
 Comedy Central Family Hungary
-TV2 Comedy
-Jocky TV
-AXN CE
-Sony Max
-Sony Movie Channel
-AMC HU
-Paramount Channel Hungary
-Film Mania
-|75FE|Film Cafe
-Izaura TV
-ATV Spirit
 Direct One
-m5 HD
-m5
-|77F8|Spektrum
-Nat Geo HD (HUN)
-Nat Geo
-Nat Geo Wild HD
-Nat Geo Wild HU
-Love Nature HD
-Love Nature
-Travel XP HD
-Discovery HU
-|78CF|TLC.
-HGTV
-History HD
-|1CAC|History
-Travel Channel
-|7984|Viasat Explore HD
-|1:0:1:78B8|Viasat Explore
-|75FC|Viasat Nature
-|1:0:1:7982:2C7|Viasat History
-OzoneNetwork
-Life TV
-Fem3 HU
-|B77|Spektrum Home
-TV Paprika
-|1:0:1:797F|TV2 Sef
-|1:0:1:78B9|CBS Reality
-DIGI World HD HU
-DIGI World
-DIGI Life HU
-DIGI Animal World
-|1C06|BBC Earth HD
-BBC Earth
-DaVinci Learning
-Docubox
-m4 HD
-M4 Sport
-DIGI Sport 1 HD HU
-DIGI Sport 1 HU
-DIGI Sport 2 HD HU
-DIGI Sport 2 HU
-DIGI Sport 3
-Sport 1 HD
-Sport1
-Sport2
-Eurosport 1 HD
-Eurosport HU
-Eurosport 2 HD
-Eurosport 2 HU
-Spiler TV
-Spiler2
-Arena4 HD
-Arena4
-Extreme Sports Channel
-Fightbox
-Fishing and Hunting
-Auto Motor Sport
-Dikh TV
-Muzsika TV
-|1:0:1:100E|Magyar Slager TV
-Zenebutik
-Music Channel HU
-H!T Music Channel
-H!T Music RO
-Music Channel
-U tv
-MTV Hungary
-MTV Hits
-club MTV
-Mooz Dance HD
-MTV 00s
-MTV 90s
-MTV 80s
-Mezzo
-Stingray Classica
-Stingray iConcerts
-Stingray CMUSIC
-m2 HD
-m2 / Petofi
-|7605|Minimax
+Epic Drama HD
+Film 4
+|75FE|Film Cafe
+Film Mania
+Film+ HD
+Filmbox (basic) HU/RO
+FilmBox Extra HD
+|75F9|Filmbox Family
+|772B|Filmbox Premium
+FilmBox Stars INT
+Galaxy4
+|791D|HBO HD
+HBO2
+HBO 3 HU
+Izaura TV
+Jocky TV
+Magyar Mozi TV
+Max4
+Moziklub
+|1:0:1:7986|Mozi+
+Moziverzum
+Paramount Channel Hungary
+Sorozat+
+Sorozatklub
+STORY 4
+TV2 Comedy
+TV4
+Viasat 2
+Viasat Film
+|797E|Cartoon Network
+Cartoonito
 |1:0:1:77EF|Disney Channel
-Cartoon Network
-Boomerang
-NickMusic
+ducktv
+JimJam HU
+m2 HD
+|7605|Minimax
+MTV Europe
 Nickelodeon Hungary
-Nickelodeon Europe
-TeenNick Hungary
 Nicktoons Hungary
 Nick Jr Hungary
-JimJam HU
+TeenNick Hungary
 TV2 Kids
-ducktv
+ATV Spirit
+BBC Earth
+|1:0:1:78B9|CBS Reality
+DaVinci Learning
+Discovery HU
+Fem3 HU
+|D52|HGTV
+History HD
+|A14|ID Investigation Discovery
+Life TV
+Love Nature HD
+m5 HD
+Nat Geo HD (HUN)
+Nat Geo Wild HD
+Nat Geo Wild HU
+Ozone TV
+|77F8|Spektrum
+|B77|Spektrum Home
+|78CF|TLC.
+Travel Channel
+Travel XP HD
+TV Paprika
+|1:0:1:797F|TV2 Sef
+|7984|Viasat Explore HD
+|1:0:1:7982:2C7|Viasat History
+|75FC|Viasat Nature
+Arena4 HD
+|76DB|Auto Motor Sport
+Eurosport 1 HD
+Eurosport 2 HD
+Extreme Sports Channel
+Fishing&Hunting
+M4 HD
+MATCH4 HD
+Spiler TV
+Spiler2
+|7727|Sport 1 HD
+Sport2 HD
+Stingray CMUSIC
+club MTV
+Dikh TV
+Stingray iConcerts
+|78D8|Mezzo
+Muzsika TV
+MTV Hits
+MTV 00s
+MTV 80s
+MTV 90s
+NickMusic
+Music Channel
+U tv
+Zenebutik
 ATV
 HirTV
-Pesti TV
-Pax TV
-CNN
+|FC8|M1 HD
 CNBC Europe
+|79E3|CNN
+Docubox
+|772E|Fashion TV
+Fightbox
 Bloomberg
 Sky News
-TV5MONDE
 Al Jazeera English
 CGTN Documentary HD
 CGTN HD
-ProTV International
-|772E|Fashion TV
 Jednotka HD
 Dvojka HD
+RTVS Sport HD
+:24
 Trojka
 RTVS Sport
 Markiza HD
@@ -168,40 +135,40 @@ Markiza INT
 Doma HD
 Dajto HD
 JOJ HD
-JOJ Plus HD
+JOJ 24 HD
+Plus HD
 JOJ Cinema HD
 JOJ Family
 JOJ Sport
 Wau HD
 TA3
 CT 1 HD
-|1:0:19:7A46:2C9|CT 2 HD
+CT 2 HD
 CT 3
-|1:0:19:7924|CT Sport HD
+CT Sport HD
 CT 24 HD
 CT: D/Art HD
-Prima PLUS
+Prima Plus
 Prima Cool
 Prima Love
 Prima ZOOM HD
 Prima HD
 Prima Krimi HD
-|7AB4|Prima MAX HD
+Prima MAX HD
 Paramount Network
-|1:0:19:7675:2BF|CNN Prima News HD
+CNN Prima News HD
 Nova International
-Nova HD
-Nova Fun HD
-|7A4B|Nova Cinema HD
+Nova Cinema HD
 Nova Action HD
 Nova Gold HD
-Barrandov TV
+TV Barrandov
 CS Film/CS Horror
 |76C3|HBO HD
+Filmbox Stars CZ
 Filmbox Basic
 Filmbox Premium HD
 AXN Black
-AXN Czech
+AXN CZ
 AXN White
 Film + CZE
 Film+ SK
@@ -209,9 +176,9 @@ AMC CE
 Sport 1 HD CZ
 Sport 2 HD
 Sport 5
-NOVA Sport 1 HD
+Nova Sport 1 HD
 Nova Sport 2 HD
-Arena Sport 1 HD
+Arena Sport 1
 National Geographic HD
 Spektrum SK HD
 |759F|Spektrum
