@@ -1,19 +1,8 @@
 #!/bin/bash
 
-# Rev: 16-03-2021
-url=("http://www.xmltvepg.nl/rytec.channels.xml.xz" "http://epgspot.com/rytec_epg/rytec.channels.xml.xz" "http://rytecepg.dyndns.tv/epg_data/rytec.channels.xml.xz" "http://epg.vuplus-community.net/rytec.channels.xml.xz")
+url=("https://raw.githubusercontent.com/adrianmihalko/EPGimport-Sources/main/rytec.channels.xml")
 
-J=1
-	for i in "${url[@]}"
-		do
-            if [ $J -ne 0 ] ; then
-                wget -q $i -O /tmp/rytec.channels.xml.xz        
-                J=$?
-                if [ $J -eq 0 ] ; then
-                    xz -f -q -d /tmp/rytec.channels.xml.xz
-                fi
-            fi    
-        done
+wget -q $url -O /tmp/rytec.channels.xml
 
 wget -q "https://raw.githubusercontent.com/adrianmihalko/enigma2hunskchannellist/main/EPGFilter/FILTERpattern.txt" -O /etc/epgimport/FILTERpattern.txt
 
