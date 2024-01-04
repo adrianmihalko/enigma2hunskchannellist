@@ -36,3 +36,4 @@ AXNSciFi.ro
 AXNCrime.ro
 AnimalPlanet.ro
 AXNBlack.hu
+"CBSReality.ro">1:0:1:78B9:2C5:600:E080000:0:0:0:
