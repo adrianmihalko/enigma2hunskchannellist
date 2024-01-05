@@ -16,7 +16,7 @@ AXN CE
 Cinemax2
 Comedy Central Hungary
 Comedy Central Family Hungary
-Direct One
+Direct One HD
 Epic Drama HD
 Film 4
 |75FE|Film Cafe
@@ -61,6 +61,7 @@ Nick Jr Hungary
 TeenNick Hungary
 TV2 Kids
 ATV Spirit
+Animal Planet
 BBC Earth
 |1:0:1:78B9|CBS Reality
 DaVinci Learning
@@ -109,6 +110,7 @@ MTV Hits
 MTV 00s
 MTV 80s
 MTV 90s
+Slager TV
 NickMusic
 Music Channel
 U tv
