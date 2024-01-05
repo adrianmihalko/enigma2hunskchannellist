@@ -51,6 +51,7 @@ Cartoonito
 |1:0:1:77EF|Disney Channel
 ducktv
 JimJam HU
+Kolyoklub
 m2 HD
 |7605|Minimax
 MTV Europe
@@ -75,6 +76,7 @@ Nat Geo HD (HUN)
 Nat Geo Wild HD
 Nat Geo Wild HU
 Ozone TV
+RTL OTTHON
 |77F8|Spektrum
 |B77|Spektrum Home
 |78CF|TLC.
