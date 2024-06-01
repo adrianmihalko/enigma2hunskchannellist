@@ -119,7 +119,7 @@ HirTV
 CNBC Europe
 |79E3|CNN
 Docubox
-Fashion TV
+|1:0:16:7AB0|Fashion TV
 Bloomberg
 Sky News
 Al Jazeera English
