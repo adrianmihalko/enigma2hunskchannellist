@@ -1,10 +1,10 @@
-|1:0:19:7919|Duna HD
+|1:0:19:7AB8|Duna HD
 Duna World / M4 Sport+
 RTL HD
 RTL KETTO HD
 RTL HAROM HD
 RTL GOLD
-|FBE|TV2 HD
+|772F|TV2 HD
 SuperTV2
 |1:0:1:78C0|Prime
 Cool
@@ -22,25 +22,24 @@ Film 4
 |75FE|Film Cafe
 Film Mania
 Film+ HD
-Filmbox (basic) HU/RO
 FilmBox Extra HD
 |75F9|Filmbox Family
 |772B|Filmbox Premium
 FilmBox Stars INT
 Galaxy4
-|791D|HBO HD
+|7737|HBO HD
 HBO2
 HBO 3 HU
 Izaura TV
 Jocky TV
 Magyar Mozi TV
 Max4
-Moziklub
+Moziklub???
 |1:0:1:7986|Mozi+
 Moziverzum
 Paramount Channel Hungary
 Sorozat+
-Sorozatklub
+Sorozatklub???
 STORY 4
 TV2 Comedy
 TV4
@@ -61,26 +60,27 @@ Nick Jr Hungary
 TeenNick Hungary
 TV2 Kids
 ATV Spirit
-Animal Planet
+Animal Planet???
 BBC Earth
-DaVinci Learning
-Discovery HU
-Fem3 HU
-|D52|HGTV
+DaVinci Learning???
+Discovery HU???
+|D52|HGTV???
 History HD
-|A14|ID Investigation Discovery
+TV2Klub
 Life TV
 Love Nature HD
 m5 HD
 Nat Geo HD (HUN)
 Nat Geo Wild HD
-Nat Geo Wild HU
+Nat Geo Wild
+Love Nature HD
 Ozone TV
 RTL OTTHON
 |77F8|Spektrum
 |B77|Spektrum Home
-|78CF|TLC.
-Travel Channel
+Travel XP HD
+|78CF|TLC.???
+Travel Channel???
 Travel XP HD
 TV Paprika
 |1:0:1:797F|TV2 Sef
@@ -89,9 +89,10 @@ TV Paprika
 |75FC|Viasat Nature
 Arena4 HD
 |76DB|Auto Motor Sport
-Eurosport 1 HD
-Eurosport 2 HD
+Eurosport 1 HD???
+Eurosport 2 HD???
 Extreme Sports Channel
+Fightbox
 Fishing&Hunting
 M4 HD
 MATCH4 HD
@@ -103,7 +104,7 @@ Stingray CMUSIC
 club MTV
 Dikh TV
 Stingray iConcerts
-|78D8|Mezzo
+Mezzo
 Muzsika TV
 MTV Hits
 MTV 00s
@@ -121,7 +122,6 @@ CNBC Europe
 |79E3|CNN
 Docubox
 |772E|Fashion TV
-Fightbox
 Bloomberg
 Sky News
 Al Jazeera English
@@ -201,11 +201,5 @@ LALA TV
 Jojko
 Ocko
 MTV Europe
-Vixen HD
-Blue Hustler
-Hustler
-Private TV
-SuperOne
-|1:0:16:7E7|Eroxxx
 NASA
 4K-HERiTAGE
