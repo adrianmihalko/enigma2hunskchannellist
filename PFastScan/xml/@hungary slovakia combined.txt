@@ -30,16 +30,16 @@ Galaxy4
 |7737|HBO HD
 HBO2
 HBO 3 HU
-Izaura TV
-Jocky TV
-Magyar Mozi TV
+|1:0:1:79F7|Izaura TV
+|1:0:1:75AA|Jocky TV
+Magyar Mozi TV???digi???
 Max4
-Moziklub???
+Moziklub???digi???
 |1:0:1:7986|Mozi+
-Moziverzum
+|1:0:1:75B1:2BD|Moziverzum
 Paramount Channel Hungary
 Sorozat+
-Sorozatklub???
+Sorozatklub???digi???
 STORY 4
 TV2 Comedy
 TV4
@@ -50,8 +50,8 @@ Cartoonito
 |1:0:1:77EF|Disney Channel
 ducktv
 JimJam HU
-Kolyokklub
-m2 HD
+|1:0:19:7ABA|Kolyokklub
+M2 HD
 |7605|Minimax
 MTV Europe
 Nickelodeon Hungary
@@ -60,28 +60,26 @@ Nick Jr Hungary
 TeenNick Hungary
 TV2 Kids
 ATV Spirit
-Animal Planet???
+Animal Planet???digi???
 BBC Earth
-DaVinci Learning???
-Discovery HU???
-|D52|HGTV???
-History HD
+DaVinci Learning???digi???
+Discovery HU???digi???
+|D52|HGTV???digi???
+|1:0:19:7AAB|History HD
 TV2Klub
 Life TV
-Love Nature HD
-m5 HD
+M5 HD
 Nat Geo HD (HUN)
 Nat Geo Wild HD
 Nat Geo Wild
 Love Nature HD
 Ozone TV
-RTL OTTHON
+|1:0:19:7ABB|RTL OTTHON
 |77F8|Spektrum
 |B77|Spektrum Home
-Travel XP HD
-|78CF|TLC.???
-Travel Channel???
-Travel XP HD
+|78CF|TLC.???digi???
+Travel Channel???digi???
+Travel XP HD???digi???
 TV Paprika
 |1:0:1:797F|TV2 Sef
 |7984|Viasat Explore HD
@@ -89,8 +87,8 @@ TV Paprika
 |75FC|Viasat Nature
 Arena4 HD
 |76DB|Auto Motor Sport
-Eurosport 1 HD???
-Eurosport 2 HD???
+Eurosport 1 HD???digi???
+Eurosport 2 HD???digi???
 Extreme Sports Channel
 Fightbox
 Fishing&Hunting
@@ -104,7 +102,7 @@ Stingray CMUSIC
 club MTV
 Dikh TV
 Stingray iConcerts
-Mezzo
+|1:0:16:7A61|Mezzo
 Muzsika TV
 MTV Hits
 MTV 00s
@@ -121,7 +119,7 @@ HirTV
 CNBC Europe
 |79E3|CNN
 Docubox
-|772E|Fashion TV
+Fashion TV
 Bloomberg
 Sky News
 Al Jazeera English
